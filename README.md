@@ -30,7 +30,4 @@ En base a su experiencia en el desarrollo de la parte práctica del TP1
 - En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
   `Responde aquí`<br/><br/>
 - En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
-  `Responde aquí`
-  <br/>
-  <br/>
-  <br/>
+  `Responde aquí`<br/><br/>
